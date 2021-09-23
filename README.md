@@ -50,7 +50,8 @@
 # [대표 이미지]
 
 ### [인게임예상도]
-<img src="img/인게임예상도1.jpg">
+<img src="https://github.com/WaterGoPotato/WaterGoPotato.github.io/blob/329d7aa4f866cc0ed9660276704fe77f7c594d92/img/%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%98%88%EC%83%81%EB%8F%841.jpg?raw-true">
+
 - 주요 게임속 상황 사진입니다.
 
 ### [인게임예상도.UI]
