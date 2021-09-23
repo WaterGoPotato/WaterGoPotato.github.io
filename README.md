@@ -31,18 +31,17 @@
 # [관련 이미지 & 동영상]
 
 ### [전체적인 게임방식] 던전 크롤 : https://youtu.be/vkzq-W5Fh4o
-![관련이미지1]
 <img src="img/관련동영상.미리보기1.PNG">
 - 게임 맵, 몬스터, 아이템들이 랜덤 생성되고, 플레이어가 죽으면 초기화되는 방식으로 진행되는 로그라이크게임입니다.
 
 
 ### [가장 영향을 크게 받은 게임] 픽셀던전 : https://youtu.be/5NE9dqKs4rA
-![관련이미지2](https://github.com/WaterGoPotato/WaterGoPotato.github.io/blob/b976cd71e3e6b998eb4941699ab8745912750876/img/%EA%B4%80%EB%A0%A8%EB%8F%99%EC%98%81%EC%83%81.%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B02.PNG)
+<img src="img/관련동영상.미리보기2.PNG">
 - 로그라이크 게임을 터치 하나로만 할 수있게 게임의 조작을 간단하게 만들예정입니다.
 
 
 ### [타임어택 요소] 스펠렁키2 : https://youtu.be/vkzq-W5Fh4o
-![관련이미지3](https://github.com/WaterGoPotato/WaterGoPotato.github.io/blob/b976cd71e3e6b998eb4941699ab8745912750876/img/%EA%B4%80%EB%A0%A8%EB%8F%99%EC%98%81%EC%83%81.%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B03.PNG)
+![관련이미지3]<img src="img/관련동영상.미리보기3.PNG">
 - 로그라이크 게임의 문제인 긴 플레이타임을 방지하는 시스템입니다.
 
 
@@ -51,26 +50,25 @@
 # [대표 이미지]
 
 ### [인게임예상도]
-![인게임예상도1](https://github.com/WaterGoPotato/WaterGoPotato.github.io/blob/b07080d19cb2a6277e28c96ae458922c7a6f5801/img/%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%98%88%EC%83%81%EB%8F%841.jpg)
-- 주요 게임속 상황 사진입니다.
+<img src="img/인게임예상도1.PNG">- 주요 게임속 상황 사진입니다.
 ### [인게임예상도.UI]
-![인게임예상도2](https://github.com/WaterGoPotato/WaterGoPotato.github.io/blob/b07080d19cb2a6277e28c96ae458922c7a6f5801/img/%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%98%88%EC%83%81%EB%8F%842.jpg)
+<img src="img/인게임예상도2.PNG">
 - UI 예시 사진입니다.
 
 ### [게임요소예상도.1]
-![게임요소예상도1](https://github.com/WaterGoPotato/WaterGoPotato.github.io/blob/b07080d19cb2a6277e28c96ae458922c7a6f5801/img/%EA%B4%80%EB%A0%A8%EC%82%AC%EC%A7%84%EC%84%A4%EB%AA%851.PNG)
+<img src="img/관련사진설명1.PNG">
 - 한 지역에는 여러개의 방이 있고, 여러개의 방은 통로로 연결되어있습니다.
 - 방들은 랜덤으로 생성됩니다.
 - 지역들은 계단으로 연결되어있습니다.
 
 ### [게임요소예상도.2]
-![게임요소예상도2](https://github.com/WaterGoPotato/WaterGoPotato.github.io/blob/b07080d19cb2a6277e28c96ae458922c7a6f5801/img/%EA%B4%80%EB%A0%A8%EC%82%AC%EC%A7%84%EC%84%A4%EB%AA%852.PNG)
+<img src="img/관련사진설명2.PNG">
 - 플레이어는 타일을 클릭해 이동이나 행동 할수 있습니다.
 - 적들도 플레이어가 행동한 만큼 행동합니다.
 - 서로 접근하여 공격하는 방식으로 전투가 진행됩니다.
 
 ### [게임요소예상도.3]
-![게임요소예상도3](https://github.com/WaterGoPotato/WaterGoPotato.github.io/blob/b07080d19cb2a6277e28c96ae458922c7a6f5801/img/%EA%B4%80%EB%A0%A8%EC%82%AC%EC%A7%84%EC%84%A4%EB%AA%853.jpg)
+<img src="img/관련사진설명3.PNG">
 - 캐릭터상태 : 캐릭터의 현재 상태를 자세히 알 수 있습니다.
 - 가방 : 플레이어가 얻은 물품들을 확인할수 있습니다.
 - 탐색 : 숨겨진 타일이나 물건을 찾을 수 있습니다.
