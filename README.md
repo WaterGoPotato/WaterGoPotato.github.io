@@ -31,7 +31,8 @@
 # [관련 이미지 & 동영상]
 
 ### [전체적인 게임방식] 던전 크롤 : https://youtu.be/vkzq-W5Fh4o
-![관련이미지1]<img  src="https://github.com/WaterGoPotato/WaterGoPotato.github.io/blob/b976cd71e3e6b998eb4941699ab8745912750876/img/%EA%B4%80%EB%A0%A8%EB%8F%99%EC%98%81%EC%83%81.%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B01.PNG">
+![관련이미지1]
+<img src="https://github.com/WaterGoPotato/WaterGoPotato.github.io/blob/b976cd71e3e6b998eb4941699ab8745912750876/img/%EA%B4%80%EB%A0%A8%EB%8F%99%EC%98%81%EC%83%81.%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B01.PNG?raw=true">
 - 게임 맵, 몬스터, 아이템들이 랜덤 생성되고, 플레이어가 죽으면 초기화되는 방식으로 진행되는 로그라이크게임입니다.
 
 
