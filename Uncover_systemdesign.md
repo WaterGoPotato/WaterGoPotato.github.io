@@ -19,6 +19,7 @@
 |15|상자|<img src="./img/상자.png" width="64" height="64">|
 |16|트랩|<img src="./img/트랩.png" width="64" height="64">|
 |17|안개|<img src="./img/안개.png" width="64" height="64">|
+|:----:|:----:|:----:|
 
 # 파라미터 뽑아보기
 
