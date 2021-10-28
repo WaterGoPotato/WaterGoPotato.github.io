@@ -164,6 +164,7 @@
 - 유니티엔진으로 제작한다.
 - 맵생성으로 BSP트리(이진공간분활법)을 사용한다.
 - 플레이어와 적 움직임에는 A*를 이용한 길찾기 알고리즘을 이용한다.
+- https://github.com/WaterGoPotato/WaterGoPotato.github.io/blob/44036e65b11c9564fef68ea6b23ebf0e3f7ccdf3/%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C.md
   
   
   # [개발 요구사항 및 흐름도] <a name = "num5">
